@@ -1,0 +1,19 @@
+{
+  "name": "secao11",
+  "version": "1.0.0",
+  "description": "Aula JS",
+  "main": "index.js",
+  "author": "Marcelo Luiz Jung",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.12.13",
+    "@babel/core": "^7.12.13",
+    "@babel/preset-env": "^7.12.13",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.21.1",
+    "webpack-cli": "^4.5.0"
+  },
+  "scripts": {
+    "dev": "webpack --mode=development -w"
+  }
+}
