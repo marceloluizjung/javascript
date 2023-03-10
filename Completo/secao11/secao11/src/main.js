@@ -1,6 +1,6 @@
 // import { soma as somarMais, subtracao } from './helper';
-// import dobrar from './dobrar';
-// import quadrado, { metade, MEUPI } from './funcoes';
+import dobrar from './dobrar';
+import quadrado, { metade, MEUPI } from './funcoes';
 
 // import * as helpers from './helper';
 
